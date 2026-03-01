@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Computer Science student specializing in Applied Informatics, with a strong interest in algorithms and software development.<br><br>🔭 Currently working on C programming and academic projects<br><br>🌱 Learning Data Structures and Python<br><br>👯 Open to collaborating on beginner-friendly open-source projects<br><br>💬 Interested in programming fundamentals and problem-solving<br><br>📫 Contact: abdellahezzyky@gmail.com</h3>
+<h4 align="left">Computer Science student specializing in Applied Informatics, with a strong interest in algorithms and software development.<br><br>🔭 Currently working on C programming and academic projects<br><br>🌱 Learning Data Structures and Python<br><br>👯 Open to collaborating on beginner-friendly open-source projects<br><br>💬 Interested in programming fundamentals and problem-solving<br><br>📫 Contact: abdellahezzyky@gmail.com</h4>
 
 ###
 
@@ -50,10 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Ezzyky/Ezzyky/output/snake.svg" alt="Snake animation" />
 
 ###
 
