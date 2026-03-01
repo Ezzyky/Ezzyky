@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">👋 Hello, I'm Abdellah</h2>
+<h1 align="left">👋 Hello, I'm Abdellah</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">Computer Science student specializing in Applied Informatics, with a strong interest in algorithms and software development.<br><br>🔭 Currently working on C programming and academic projects<br><br>🌱 Learning Data Structures and Python<br><br>👯 Open to collaborating on beginner-friendly open-source projects<br><br>💬 Interested in programming fundamentals and problem-solving<br><br>📫 Contact: abdellahezzyky@gmail.com</h5>
+<h3 align="left">Computer Science student specializing in Applied Informatics, with a strong interest in algorithms and software development.<br><br>🔭 Currently working on C programming and academic projects<br><br>🌱 Learning Data Structures and Python<br><br>👯 Open to collaborating on beginner-friendly open-source projects<br><br>💬 Interested in programming fundamentals and problem-solving<br><br>📫 Contact: abdellahezzyky@gmail.com</h3>
 
 ###
 
