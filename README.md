@@ -41,15 +41,6 @@ Currently learning Python, algorithms, and data analysis.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ezzyky&bg_color=00000000&color=d29922&line=d29922&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 👾 Pac-Man Contribution Graph
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ezzyky/Ezzyky/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ezzyky/Ezzyky/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Ezzyky/Ezzyky/output/pacman-contribution-graph.svg" />
-  </picture>
-</p>
-
 ### 🐍 Contribution Snake
 <p align="center">
   <picture>
